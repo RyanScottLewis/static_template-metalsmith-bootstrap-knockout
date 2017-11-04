@@ -1,5 +1,5 @@
 {
-  "name": "tdd_lines",
+  "name": "static_template",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
@@ -14,8 +14,8 @@
     "popper.js": "^1.12.6"
   },
   "version": "0.1.0",
-  "description": "Site",
+  "description": "Static Template",
   "main": "build.coffee",
-  "author": "Ryan Scott Lewis <ryanscottlewis@gmail.com>",
+  "author": "Author",
   "license": "NA"
 }
