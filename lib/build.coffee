@@ -5,9 +5,6 @@ coffee       = require('metalsmith-coffee')
 sass         = require('metalsmith-sass')
 inPlace      = require('metalsmith-in-place')
 
-# TODO: Install jquery, bootstrap, popper, knockout to separate node modules, copy out dist files then
-#       remove all other files so it doesnt take forever to build
-
 app = metalsmith(__dirname)
   .source '..'
 
