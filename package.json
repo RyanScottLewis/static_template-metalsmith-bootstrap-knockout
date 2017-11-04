@@ -9,7 +9,6 @@
     "metalsmith": "^2.3.0",
     "metalsmith-coffee": "0.0.2",
     "metalsmith-copy": "^0.3.0",
-    "metalsmith-ignore": "^0.1.2",
     "metalsmith-in-place": "^3.0.1",
     "metalsmith-sass": "^1.4.0",
     "popper.js": "^1.12.6"
