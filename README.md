@@ -1,7 +1,8 @@
 ## Setup
 
-`npm install`
+`cake setup`
 
 ## Build
 
-`coffee build.coffee`
+Single: `cake build`
+Watching: `guard`
