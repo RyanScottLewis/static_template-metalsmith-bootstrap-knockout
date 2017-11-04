@@ -1,0 +1,22 @@
+{
+  "name": "tdd_lines",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.2.1",
+    "jstransformer-haml": "^0.1.0",
+    "knockout": "^3.4.2",
+    "metalsmith": "^2.3.0",
+    "metalsmith-coffee": "0.0.2",
+    "metalsmith-copy": "^0.3.0",
+    "metalsmith-ignore": "^0.1.2",
+    "metalsmith-in-place": "^3.0.1",
+    "metalsmith-sass": "^1.4.0",
+    "popper.js": "^1.12.6"
+  },
+  "version": "0.1.0",
+  "description": "Site",
+  "main": "build.coffee",
+  "author": "Ryan Scott Lewis <ryanscottlewis@gmail.com>",
+  "license": "NA"
+}
